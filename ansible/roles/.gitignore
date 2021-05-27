@@ -1,0 +1,8 @@
+# Ignore everything in dir...
+.vendor/*
+
+#  Don't ignore current file.
+!.gitignore
+
+# Don't ignore external role requirement file
+!requirements.yml

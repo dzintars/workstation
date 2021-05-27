@@ -1,0 +1,5 @@
+[workstations]
+workstation
+
+[all:children]
+workstations
